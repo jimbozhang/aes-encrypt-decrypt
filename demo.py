@@ -1,6 +1,5 @@
 import os
 from cryptographic import encrypt, decrypt
-from hashlib import md5
 
 
 # Create a file (~500Mb) for testing
